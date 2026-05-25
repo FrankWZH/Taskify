@@ -241,9 +241,13 @@ This project is intended for:
 
 # 📜 License
 
-This project follows the original MIT License of the upstream repository.
+This project is based on the original open-source Taskify repository and follows the original MIT License.
 
-Please refer to the `LICENSE` file for details.
+Please refer to the original license file here:
+
+[MIT License](https://github.com/DSCKGEC/Taskify/blob/main/LICENSE)
+
+Additional modifications and custom implementations in this repository are provided for educational and personal development purposes.
 
 ---
 

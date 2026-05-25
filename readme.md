@@ -1,232 +1,272 @@
-
-
 <div align="center">
-  <h1>Welcome to Taskify 👋💻</h1>
-  <h3>Live Website for Taskify : <a href="#">Click Here!</a></h3>
-</div>
 
-<br>
+# 🚀 Taskify Enhanced
+
+### A Customized Task Management Platform
+
+Built with **Node.js**, **Express.js**, and **MongoDB**
 
 <p align="center">
-<a href="https://github.com/DSCKGEC/Taskify"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=github"></a> 
-<a href="https://github.com/DSCKGEC/Taskify"><img src="https://img.shields.io/badge/Open%20Source-%F0%9F%A4%8D-Green"></a> 
-<a href="https://github.com/DSCKGEC/Taskify"><img src="https://img.shields.io/static/v1.svg?label=Contributions&message=Welcome&color=0059b3&style=flat-square"></a>
-<a href="https://github.com/DSCKGEC/Taskify/graphs/contributors"><img src="https://img.shields.io/github/contributors-anon/sudip-101/Taskify"></a>
-<a href="https://github.com/DSCKGEC/Taskify"><img src="https://img.shields.io/maintenance/yes/2022"></a>
-</p> 
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white">
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white">
+  <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white">
+  <img src="https://img.shields.io/badge/Security-Enhanced-blue?style=for-the-badge">
+</p>
 
+<p align="center">
+  <b>Enhanced authentication • Automated testing • Backend optimization • Security improvements</b>
+</p>
 
-##  Repository
+</div>
 
-<h3> Taskify </h3>
+---
 
-It is a task management system for everyone. It is designed to help you manage your tasks and projects from ideation to delivery. This task manager helps to bring in only the necessary parts – without all the annoying clutter.
+# 📖 Overview
 
+Taskify Enhanced is a customized and improved version of the original open-source Taskify project.
 
-##  Join Here
- Join us to come up with a real-time platform to tackle the solution of needs of the individuals who are in situations of struggling with task management.
- We are building this app to ensure that no one suffers due to lack of awareness and get the required help when time matters a lot. Lets make this workflow more efficient and valuable to the community for their livelihood with taskify. 
+This version focuses on:
 
+- 🔐 Authentication and security enhancements
+- 🧪 Automated testing with Jest
+- ⚙️ Backend optimization and maintainability
+- 🗂 Improved project organization
+- ☁️ MongoDB integration
+- 📤 File upload support
 
-##  Tech Stacks
+The project was modified and extended for educational, research, and personal development purposes.
 
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"><img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"><img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"><img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"><img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white">
+---
 
-<br>
+# 🙏 Acknowledgement
 
-### Node
+This project is based on the open-source **Taskify** project.
 
--   #### Node installation on Windows
+### Original Repository
+https://github.com/sptin2002/Taskify
 
-    Just go on [official Node.js website](https://nodejs.org/) and download the installer.
-    Also, be sure to have `git` available in your PATH, `npm` might need it (You can find git [here](https://git-scm.com/)).
+The original project provided the foundation for this customized version.  
+Additional modifications, testing, restructuring, and security-related improvements were implemented independently.
 
--   #### Node installation on Ubuntu
+---
 
-    You can install nodejs and npm easily with apt install, just run the following commands.
+# ✨ Features
 
-        $ sudo apt install nodejs
-        $ sudo apt install npm
+## ✅ Core Features
 
--   #### Other Operating Systems
-    You can find more information about the installation on the [official Node.js website](https://nodejs.org/) and the [official NPM website](https://npmjs.org/).
+- User authentication and authorization
+- Task creation and management
+- RESTful API support
+- MongoDB database integration
+- File upload functionality
+- Responsive frontend interface
 
-If the installation was successful, you should be able to run the following command.
+---
 
-    $ node --version
-    v8.11.3
+## 🔒 Security Enhancements
 
-    $ npm --version
-    6.1.0
+This customized version includes several backend security improvements:
 
-If you need to update `npm`, you can make it using `npm`! Cool right? After running the following command, just open again the command line and be happy.
+- Improved authentication workflow
+- Password hashing enhancements
+- Session validation improvements
+- Additional backend verification logic
+- Safer request handling
+- Improved error handling mechanisms
 
-    $ npm install npm -g
+---
 
+## 🧪 Testing Support
 
+- Automated testing using Jest
+- Backend validation testing
+- Improved error detection
+- Coverage report support
 
-If you want to work on this unique project and share it with the world, you can do that here. 
-Go through the contributing guidelines [here](https://github.com/DSCKGEC/Taskify/blob/main/contributing.md).
+Run tests using:
 
-Subsequently, also go through the GitHub documentation on [creating a pull request](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request).
-
-
-
-##  Templates to Follow
-
-- [Feature request](https://github.com/DSCKGEC/Taskify/blob/main/.github/ISSUE_TEMPLATE/feature_request.md)
-- [Bug Report](https://github.com/DSCKGEC/Taskify/blob/main/.github/ISSUE_TEMPLATE/bug_report.md)
-- [Pull Request](https://github.com/DSCKGEC/Taskify/blob/main/.github/PULL_REQUEST_TEMPLATE.md)
-
-**Note** : One should follow these templates while creating a new issue or pull request.
-
-
-
-## Folder Structure 
-
-Folder structure of this project for your reference 
-
+```bash
+npm test
 ```
+
+Generate coverage reports:
+
+```bash
+npm test -- --coverage
+```
+
+---
+
+# 🛠 Tech Stack
+
+| Technology | Usage |
+|---|---|
+| Node.js | Backend runtime |
+| Express.js | Web framework |
+| MongoDB | Database |
+| JavaScript | Programming language |
+| HTML5 / CSS3 | Frontend structure |
+| Bootstrap | UI styling |
+| Jest | Automated testing |
+
+---
+
+# 📂 Project Structure
+
+```text
 ├── src
 │   ├── cloudinary
 │   ├── db
 │   ├── middleware
 │   ├── models
 │   ├── routes
-│   ├── app.js
-│   
+│   ├── tests
+│   └── app.js
+│
 ├── static
 │   ├── assets
 │   ├── js
-│   ├── styles
-│   │   ├── partials
-|   ...
-│   
+│   └── styles
+│
 ├── views
-│   │   ├── partials
-|   ...
-|
+│   └── partials
+│
 ├── package.json
-├── package-lock.json 
-└── .gitignore
-└── .env
+├── package-lock.json
+├── .env
+├── .gitignore
+└── README.md
 ```
 
-##  Workflow:
+---
 
-- Fork the repository
+# ⚙️ Installation
 
-- Clone your forked repository using terminal or gitbash.
+## 1️⃣ Clone the Repository
 
-- Make changes to the cloned repository
+```bash
+git clone https://github.com/FrankWZH/Taskify.git
+```
 
-- Add, Commit and Push
+---
 
-- Then in GitHub, in your cloned repository, find the option to make a pull request. 
+## 2️⃣ Install Dependencies
 
-**NOTE** : For more details <a href="https://github.com/DSCKGEC/Taskify/blob/main/contributing.md">Click Here!</a>
+```bash
+npm install
+```
 
-## Installation
+---
 
-    $ npm install
+## 3️⃣ Configure Environment Variables
 
-## Running the project
+Create a `.env` file in the project root directory:
 
-    $ npm start
+```env
+ENV=development
+PORT=3000
 
+MONGO_URI=your_mongodb_uri
 
-## Configure environmental variables
+JWT_SECRET=your_jwt_secret
+EXPIRY=your_jwt_expiry
+SECRET=your_session_secret
 
-Create a `.env` file then edit it with your settings. You will need:
+CLOUDINARY_CLOUD_NAME=your_cloudinary_name
+CLOUDINARY_KEY=your_cloudinary_key
+CLOUDINARY_SECRET=your_cloudinary_secret
 
--   ENV=development
--   PORT=[your_port]
--   MONGO_URI=[your_mongo_uri]
--   JWT_SECRET=[your_jwt_secret]
--   EXPIRY=[your_jwt_expiry_time]
--   SECRET=[your_secret_for_mongostore]
--   CLOUDINARY_CLOUD_NAME=[your_cloudinary_cloud_name]
--   CLOUDINARY_KEY=[your_cloudinary_key]
--   CLOUDINARY_SECRET=[your_cloudinary_secret]
--   X_RAPIDAPI_HOST=[your_rapidapi_sendgrid_host]
--   X_RAPIDAPI_KEY=[your_rapiapi_sendgrid_key]
--   SENDGRID_EMAIL=[no-reply@your_domain.com]
-  
-<br>
+X_RAPIDAPI_HOST=your_rapidapi_host
+X_RAPIDAPI_KEY=your_rapidapi_key
 
-> console.log ( " Start contributing for Taskify " );
+SENDGRID_EMAIL=no-reply@example.com
+```
 
+---
 
-## Open Source Programs
+## 4️⃣ Start the Application
 
-<table>
-<tr>
- <td align="center">
-<a href="#"><img src="" width=100px height=100px /><br /><sub><b>KGEC Summer Of Code</b></sub></a>
- </td>
-</tr>
-</table>
+```bash
+npm start
+```
 
+---
 
-##  Valuable Contributors
-Special thanks goes to all of the mentees who made a choice to make an impact. Contributions of any kind are welcome!🚀 
+# 🚀 Custom Improvements
 
-<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
-<!-- prettier-ignore-start -->
-<!-- markdownlint-disable -->
+Compared with the original upstream repository, this customized version includes:
 
-<a href="https://github.com/DSCKGEC/Taskify/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=DSCKGEC/Taskify" />
-</a>
+- ✅ Authentication improvements
+- ✅ Additional backend validation
+- ✅ Session security enhancements
+- ✅ Automated testing support
+- ✅ Refactored backend structure
+- ✅ MongoDB integration improvements
+- ✅ Bug fixes and stability enhancements
+- ✅ Improved maintainability and readability
 
-<!-- markdownlint-enable -->
-<!-- prettier-ignore-end -->
-<!-- ALL-CONTRIBUTORS-LIST:END -->
+---
 
+# 🧪 Testing
 
-##  Code Of Conduct
+Run all tests:
 
-You can find our Code of Conduct [here](https://github.com/DSCKGEC/Taskify/blob/main/code_of_conduct.md).
+```bash
+npm test
+```
 
+Run tests with coverage:
 
-##  License
+```bash
+npm test -- --coverage
+```
 
-This project is licensed under the MIT License - see the [LICENSE](https://github.com/DSCKGEC/Taskify/blob/main/LICENSE) file for details.
+---
 
+# ⚠️ Disclaimer
 
-##  Project Admin
+This repository is a customized educational project derived from the original open-source Taskify repository.
 
-<a href="https://github.com/sudip-101">
-Sudip Maiti</a>
-<br>
+All original credits belong to the respective upstream contributors.
 
-##  Give this Project a Star
+This project is intended for:
 
-If you liked working on this project, do ⭐ and share this repository.
+- Educational purposes
+- Research purposes
+- Personal development
+- Software engineering practice
 
-🎉 🎊 😃 Happy Contributing 😃 🎊 🎉
-<br>
+---
 
-<!-- ##  Contact Me
+# 📜 License
 
-If you want to contact me, you can reach me through below handles.
+This project follows the original MIT License of the upstream repository.
 
-<a href="mailto:hazrasoujanya@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-</a>
-<a href="https://www.linkedin.com/in/soujanyahazra/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
-<a href="https://www.instagram.com/soujanya_hazra/">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-</a>
-<a href="https://discordapp.com/users/791383804354887741">
-<img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white">
-</a>
+Please refer to the `LICENSE` file for details.
 
-<br>
+---
 
-© 2022 Soujanya Hazra
+# 🔗 Repository Links
 
+### Customized Repository
+https://github.com/FrankWZH/Taskify
 
-[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/built-by-developers.svg)](https://forthebadge.com)  -->
+### Original Upstream Repository
+https://github.com/sptin2002/Taskify
+
+---
+
+# 👨‍💻 Author
+
+### FrankWZH
+
+Customized and maintained for educational and development purposes.
+
+---
+
+<div align="center">
+
+### ⭐ If you find this project useful, feel free to star the repository!
+
+</div>

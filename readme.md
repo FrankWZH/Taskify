@@ -261,11 +261,16 @@ https://github.com/sptin2002/Taskify
 
 ---
 
-# 👨‍💻 Author
+# 👥 Team Members & Contributions
 
-### FrankWZH
+This project was collaboratively developed and enhanced by the following contributors:
 
-Customized and maintained for educational and development purposes.
+| Name | GitHub | Main Contribution |
+|------|------|------|
+| Zihang Wu | [@FrankWZH](https://github.com/FrankWZH) | Project integration, backend development, testing, documentation, deployment |
+| Xiaofei Chen | [@xiaofei1412](https://github.com/xiaofei1412) | System feature development and frontend collaboration |
+| Zhuozhi Li | [@GeorgeNum7](https://github.com/GeorgeNum7) | Security enhancement for Broken Authentication vulnerabilities |
+| Zhiling Liang | [@Qiqi0312](https://github.com/Qiqi0312) | Security enhancement for CSRF and Access Control vulnerabilities |
 
 ---
 

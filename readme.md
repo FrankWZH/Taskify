@@ -77,27 +77,6 @@ This customized version includes several backend security improvements:
 
 ---
 
-## 🧪 Testing Support
-
-- Automated testing using Jest
-- Backend validation testing
-- Improved error detection
-- Coverage report support
-
-Run tests using:
-
-```bash
-npm test
-```
-
-Generate coverage reports:
-
-```bash
-npm test -- --coverage
-```
-
----
-
 # 🛠 Tech Stack
 
 | Technology | Usage |
@@ -208,15 +187,20 @@ Compared with the original upstream repository, this customized version includes
 
 ---
 
-# 🧪 Testing
+## 🧪 Testing Support
 
-Run all tests:
+- Automated testing using Jest
+- Backend validation testing
+- Improved error detection
+- Coverage report support
+
+Run tests using:
 
 ```bash
 npm test
 ```
 
-Run tests with coverage:
+Generate coverage reports:
 
 ```bash
 npm test -- --coverage
